@@ -1,1 +1,1 @@
-# Strengthen-Your-Mind---Game
+# Strengthen Your Mind-Game
