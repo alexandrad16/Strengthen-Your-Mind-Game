@@ -26,5 +26,5 @@ link video  : https://www.youtube.com/watch?v=1k-4MAHyCQw
  **Photo below:**
 
 
-![](Robotica.png)
+![](Robotica.jpg)
  
