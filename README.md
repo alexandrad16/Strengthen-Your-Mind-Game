@@ -1,5 +1,5 @@
 # Strengthen Your Mind-Game
-link video  : 
+link video  : https://www.youtube.com/watch?v=1k-4MAHyCQw
 
  **Components:** 
  - Arduino UNO
@@ -19,5 +19,5 @@ link video  :
  
  
  **Description:**
- Do you remember the game "Simon"? The game is simple, it has 4 buttons for different LED colors that will light up in sequence and you need to repeat the sequence. Every time, you get it right, the game will give you the sequence again with an additional color at the end.
+ Do you remember the game "Simon"? The game is simple, it has 4 buttons of different colors that will light up in sequence and you need to repeat the sequence. Every time, you get it right, the game will give you the sequence again with an additional color at the end.
  
